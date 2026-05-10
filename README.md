@@ -1,4 +1,4 @@
-# Cyber Agent
+# Cybersecurity-AI-Threat-Detection-System
 
 Cyber Agent is a small Python pipeline for turning Nmap scan output into security findings, an LLM-assisted risk summary, an optional Slack alert, and a saved SQLite alert record.
 
